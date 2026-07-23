@@ -1,0 +1,14 @@
+{
+  "nations": [
+    { "id": "FRA", "nom": "France", "force": 88, "prenoms": ["Kylian", "Antoine", "Ousmane", "Aurélien", "Théo", "Eduardo", "Bradley", "Warren", "Randal", "Marcus", "Lucas", "Ibrahima"], "noms": ["Dembélé", "Camavinga", "Tchouaméni", "Koné", "Barcola", "Doué", "Saliba", "Konaté", "Thuram", "Mbappé", "Kolo Muani", "Zaïre-Emery"] },
+    { "id": "BEN", "nom": "Bénin", "force": 62, "prenoms": ["Steve", "Jodel", "Cebio", "Yohan", "Sessi", "David", "Andreas", "Marcelin", "Tosin", "Junior"], "noms": ["Mounié", "Dossou", "Soukou", "Roche", "D'Almeida", "Kiki", "Adjaho", "Aïssi", "Olou", "Sessègnon"] },
+    { "id": "SEN", "nom": "Sénégal", "force": 82, "prenoms": ["Sadio", "Ismaïla", "Nicolas", "Kalidou", "Édouard", "Boulaye", "Iliman", "Habib", "Pape", "Krépin"], "noms": ["Mané", "Sarr", "Jackson", "Koulibaly", "Mendy", "Dia", "Ndiaye", "Diallo", "Gueye", "Diatta"] },
+    { "id": "ENG", "nom": "Angleterre", "force": 86, "prenoms": ["Jude", "Bukayo", "Phil", "Cole", "Declan", "Harry", "Marcus", "Trent", "Jack", "Levi"], "noms": ["Bellingham", "Saka", "Foden", "Palmer", "Rice", "Kane", "Rashford", "Alexander-Arnold", "Grealish", "Colwill"] },
+    { "id": "BRA", "nom": "Brésil", "force": 85, "prenoms": ["Vinícius", "Rodrygo", "Endrick", "Estêvão", "Gabriel", "Bruno", "Éderson", "Lucas", "João", "Andreas"] , "noms": ["Júnior", "Goes", "Silva", "Willian", "Martinelli", "Guimarães", "Moraes", "Paquetá", "Pereira", "Santos"] },
+    { "id": "ESP", "nom": "Espagne", "force": 87, "prenoms": ["Lamine", "Pedri", "Gavi", "Nico", "Fermín", "Álvaro", "Dani", "Mikel", "Rodri", "Fabián"], "noms": ["Yamal", "González", "Páez", "Williams", "López", "Morata", "Olmo", "Merino", "Hernández", "Ruiz"] },
+    { "id": "ARG", "nom": "Argentine", "force": 88, "prenoms": ["Lionel", "Julián", "Enzo", "Alexis", "Nicolás", "Franco", "Alejandro", "Giovani", "Thiago", "Valentín"], "noms": ["Messi", "Álvarez", "Fernández", "Mac Allister", "Otamendi", "Mastantuono", "Garnacho", "Lo Celso", "Almada", "Carboni"] },
+    { "id": "GER", "nom": "Allemagne", "force": 84, "prenoms": ["Florian", "Jamal", "Kai", "Leroy", "Joshua", "Aleksandar", "Nick", "Deniz", "Angelo", "Robert"], "noms": ["Wirtz", "Musiala", "Havertz", "Sané", "Kimmich", "Pavlović", "Woltemade", "Undav", "Stiller", "Andrich"] },
+    { "id": "POR", "nom": "Portugal", "force": 85, "prenoms": ["Rafael", "Bruno", "Bernardo", "João", "Vitinha", "Gonçalo", "Nuno", "Pedro", "Diogo", "António"], "noms": ["Leão", "Fernandes", "Silva", "Neves", "Ramos", "Mendes", "Neto", "Gonçalves", "Jota", "Silva"] },
+    { "id": "CIV", "nom": "Côte d'Ivoire", "force": 74, "prenoms": ["Sébastien", "Franck", "Simon", "Nicolas", "Ibrahim", "Jean-Philippe", "Evan", "Amad", "Yan", "Oumar"], "noms": ["Haller", "Kessié", "Adingra", "Pépé", "Sangaré", "Krasso", "Ndicka", "Diallo", "Diomandé", "Bayo"] }
+  ]
+}

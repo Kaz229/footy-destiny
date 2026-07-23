@@ -1,0 +1,55 @@
+{
+  "ligues": [
+    {
+      "id": "L1", "nom": "Ligue 1", "pays": "FRA", "niveau": 1,
+      "clubs": [
+        { "id": "psg", "nom": "Paris SG", "force": 87, "prestige": 92 },
+        { "id": "om", "nom": "Marseille", "force": 79, "prestige": 78 },
+        { "id": "ol", "nom": "Lyon", "force": 76, "prestige": 76 },
+        { "id": "asm", "nom": "Monaco", "force": 78, "prestige": 74 },
+        { "id": "losc", "nom": "Lille", "force": 76, "prestige": 70 },
+        { "id": "ogcn", "nom": "Nice", "force": 74, "prestige": 66 },
+        { "id": "rcl", "nom": "Lens", "force": 74, "prestige": 65 },
+        { "id": "srfc", "nom": "Rennes", "force": 74, "prestige": 66 },
+        { "id": "rcsa", "nom": "Strasbourg", "force": 70, "prestige": 58 },
+        { "id": "fcn", "nom": "Nantes", "force": 68, "prestige": 60 }
+      ]
+    },
+    {
+      "id": "PL", "nom": "Premier League", "pays": "ENG", "niveau": 1,
+      "clubs": [
+        { "id": "mci", "nom": "Manchester City", "force": 88, "prestige": 90 },
+        { "id": "ars", "nom": "Arsenal", "force": 86, "prestige": 85 },
+        { "id": "liv", "nom": "Liverpool", "force": 86, "prestige": 88 },
+        { "id": "che", "nom": "Chelsea", "force": 82, "prestige": 84 },
+        { "id": "mun", "nom": "Manchester Utd", "force": 80, "prestige": 88 },
+        { "id": "tot", "nom": "Tottenham", "force": 80, "prestige": 78 },
+        { "id": "new", "nom": "Newcastle", "force": 79, "prestige": 72 },
+        { "id": "avl", "nom": "Aston Villa", "force": 78, "prestige": 70 }
+      ]
+    },
+    {
+      "id": "LL", "nom": "La Liga", "pays": "ESP", "niveau": 1,
+      "clubs": [
+        { "id": "rma", "nom": "Real Madrid", "force": 89, "prestige": 95 },
+        { "id": "fcb", "nom": "Barcelone", "force": 87, "prestige": 93 },
+        { "id": "atm", "nom": "Atlético", "force": 83, "prestige": 82 },
+        { "id": "ath", "nom": "Athletic Bilbao", "force": 78, "prestige": 70 },
+        { "id": "rso", "nom": "Real Sociedad", "force": 77, "prestige": 68 },
+        { "id": "vil", "nom": "Villarreal", "force": 77, "prestige": 68 },
+        { "id": "bet", "nom": "Betis", "force": 75, "prestige": 66 }
+      ]
+    },
+    {
+      "id": "PROA", "nom": "Ligue Pro A (formation)", "pays": "FRA", "niveau": 2,
+      "clubs": [
+        { "id": "acc", "nom": "AC Ajaccio", "force": 62, "prestige": 45 },
+        { "id": "gf38", "nom": "Grenoble", "force": 62, "prestige": 44 },
+        { "id": "usl", "nom": "Dunkerque", "force": 61, "prestige": 42 },
+        { "id": "epi", "nom": "Épinal", "force": 58, "prestige": 38 },
+        { "id": "cae", "nom": "Caen", "force": 63, "prestige": 50 },
+        { "id": "rodez", "nom": "Rodez", "force": 60, "prestige": 40 }
+      ]
+    }
+  ]
+}

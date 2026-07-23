@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>footy-destiny — simulateur de carrière</title>
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">⚽ <span>footy-destiny</span></div>
+    <div id="ollama-badge" class="badge badge--muet" title="Statut du narrateur IA local">IA : —</div>
+  </header>
+
+  <main id="app"><!-- rendu par app.js --></main>
+
+  <!-- Overlay d'événement narratif -->
+  <div id="event-overlay" class="overlay hidden">
+    <div class="event-card">
+      <div class="event-source" id="event-source"></div>
+      <h2 id="event-titre"></h2>
+      <p id="event-recit"></p>
+      <div id="event-choix" class="event-choix"></div>
+    </div>
+  </div>
+
+  <footer class="foot">
+    Moteur déterministe + narration par LLM local (Ollama). Tout tourne sur ta machine.
+  </footer>
+
+  <script src="/app.js" type="module"></script>
+</body>
+</html>
