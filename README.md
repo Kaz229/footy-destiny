@@ -39,6 +39,12 @@ npm start          # ou : node server/index.mjs
 
 Ouvre `http://localhost:3000`, crée un joueur, et joue tes saisons.
 
+Pour développer avec un redémarrage automatique du serveur à chaque modification :
+
+```bash
+npm run dev
+```
+
 ### Activer le narrateur IA (optionnel mais recommandé)
 
 1. Installe [Ollama](https://ollama.com).
